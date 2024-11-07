@@ -6,6 +6,9 @@ This tutorial teaches you some of the basic concepts. It is meant to be a fast r
 
 Digital-Address-Book Screenshot
 
+![image](https://github.com/user-attachments/assets/abc97069-daae-4891-a702-c5d9de8c7fdb)
+
+
 
 Importing in IntelliJ IDEA 14
 These instructions were tested on IntelliJ IDEA 14 CE. You can get it from https://www.jetbrains.com/idea/
@@ -42,7 +45,7 @@ File -> Import...
 Check out Maven Projects from SCM
 Choose Git from SCM menu
 If you do not see "Git" in the SCM menu, click "Find more SCM connectors in the m2e Marketplace" and install "m2e-egit". Restart Eclipse and start over.
-Set the repository URL to https://github.com/vaadin/addressbook.git
+Set the repository URL
 Right click the imported "addressbook" and choose Run As -> Maven Build...
 Set the goal to "jetty:run" and click "Run"
 You should now have a Jetty server running on localhost:8080. Navigate to http://localhost:8080/ to play with the application
