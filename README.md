@@ -2,12 +2,9 @@ Hello People!
 
 This is my Digital-Address-Book Project 
 
-
 This tutorial teaches you some of the basic concepts. It is meant to be a fast read for learning how to get started - not an example on how application should be designed. Please note this example uses and requires Java to work.
 
 Digital-Address-Book Screenshot
-
-
 
 
 Importing in IntelliJ IDEA 14
