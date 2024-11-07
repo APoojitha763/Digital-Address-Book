@@ -6,7 +6,7 @@ This tutorial teaches you some of the basic concepts. It is meant to be a fast r
 
 Digital-Address-Book Screenshot
 
-![image](https://github.com/user-attachments/assets/abc97069-daae-4891-a702-c5d9de8c7fdb)
+
 
 
 
@@ -16,7 +16,6 @@ These instructions were tested on IntelliJ IDEA 14 CE. You can get it from https
 To get the project up and running in IDEA, do:
 
 File -> New -> Project from Version Control -> Git
-The URL to use is https://github.com/vaadin/addressbook.git
 If you get a message about "Non-managed pom.xml file found". Choose "Add as Maven Project"
 If you get a message about no JDK or SDK being selected. Choose "Configure" and select your installed JDK. You can also set the JDK using File -> Project Structure
 To start the project, find the "Maven Projects" tab on the right hand side of the screen and navigate to
